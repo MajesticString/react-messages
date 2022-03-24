@@ -1,5 +1,4 @@
-import { Intents } from 'discord.js';
-import { Client } from 'discord.js';
+import { Intents, Client } from 'discord.js';
 
 const CHANNEL_ID = '500102969702875156';
 const TOKEN = 'replace with token';
